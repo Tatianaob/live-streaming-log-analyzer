@@ -1,0 +1,6 @@
+[2025-03-11 12:00:01] INFO Stream started successfully
+[2025-03-11 12:05:15] WARNING Bitrate drop detected: 3000 kbps → 1500 kbps
+[2025-03-11 12:07:30] ERROR Buffering issue detected (duration: 5s)
+[2025-03-11 12:10:00] INFO Stream running smoothly
+[2025-03-11 12:15:45] ERROR Encoding failure - H.264 profile mismatch
+
